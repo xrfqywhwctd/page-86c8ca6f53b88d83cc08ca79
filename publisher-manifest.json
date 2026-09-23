@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "da062df890e182c87eff76fd",
+  "owner": "xrfqywhwctd",
+  "repo": "page-86c8ca6f53b88d83cc08ca79",
+  "title": "老鹰云(laoyingyun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "86c8ca6f53b88d83cc08ca79",
+      "a": "老鹰云(laoyingyun)",
+      "b": "2027最新官网",
+      "entity": "老鹰云(laoyingyun)",
+      "brand": "老鹰云(laoyingyun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b9be9b4b400b4b987202898145398dfe879ceb3a14ee986e8751ef58ce8b2bcd",
+      "content": {
+        "primary_entity": "老鹰云(laoyingyun)",
+        "keyword1": "老鹰云(laoyingyun)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "老鹰云可在常见桌面与移动设备上通过主流客户端导入订阅使用。路由器、智能电视等设备建议先确认系统版本再部署。",
+          "AI_DESCRIPTION": "，面向需要稳定海外网络连接的跨境用户、流媒体观看与远程办公人群。它提供基础版、旗舰版和团队版三档订阅，分别对应3台、5台和20台设备同时在线，流量从每月100GB到1000GB不等。用户可根据路由器、手机、电脑或电视盒子的数量选择套餐，再按客户端文档导入订阅链接即可开始使用。",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "围绕设备数量、订阅周期和节点质量三个维度介绍老鹰云的使用特点。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，先清点常用设备再决定档位更合理。",
+          "AI_FEATURE_TITLE_2": "年付拉低成本",
+          "AI_FEATURE_TEXT_2": "基础版按年付150元、旗舰版350元、团队版850元，相当于把月费压缩约两成。",
+          "AI_FEATURE_TITLE_3": "流媒体与专线",
+          "AI_FEATURE_TEXT_3": "旗舰版提供全节点原生流媒体解锁与IPLC专线，适合追剧和游戏加速需求。",
+          "AI_HERO_SUBTITLE": "多档订阅适配多设备使用",
+          "AI_HERO_INTRO": "老鹰云为跨境访问、流媒体观看和远程办公提供订阅式网络加速服务。三档套餐区分设备数量与流量额度，旗舰版增加IPLC专线优化，团队版面向多人协同场景。",
+          "AI_VISUAL_TITLE": "老鹰云订阅加速",
+          "AI_HIGHLIGHT_1": "三档套餐对应3至20台设备",
+          "AI_HIGHLIGHT_2": "月付15元起，年付更省",
+          "AI_HIGHLIGHT_3": "IPLC专线优化游戏与直播",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版适合多设备与流媒体刚需，团队版面向小团队或高流量场景，按年付均有优惠。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "从选择套餐到客户端导入订阅，三步即可开局使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版之间选定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统版本与客户端类型，路由器或电视盒子需提前核对固件支持情况。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "按照所选客户端的操作文档，把订阅链接粘贴到对应位置并更新节点列表。",
+          "AI_CLOSING_TITLE": "按需选档快速开局",
+          "AI_CLOSING_TEXT": "清点设备数量与流量需求，选好套餐后按客户端文档导入订阅，即可开始使用老鹰云。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "老鹰云三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "看两个数字：月流量和在线设备数。100GB 与 3 台设备选基础版，300GB 与 5 台设备且需要 IPLC 专线选旗舰版，1000GB 与 20 台设备选团队版。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付 15 元、年付 150 元，旗舰版月付 35 元、年付 350 元，团队版月付 85 元、年付 850 元，年付相当于按十个月计费，适合长期使用。",
+          "AI_FAQ_QUESTION_3": "一个账号能同时在线几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量会导致新设备无法连接，需要先断开部分设备或升级套餐。",
+          "AI_FAQ_QUESTION_4": "订阅地址怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "复制订阅链接后，在 Clash、Shadowrocket、v2rayN 等客户端的订阅或配置页面粘贴并更新，节点列表出现后选择延迟较低的线路即可连接。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线在游戏加速和低延迟需求场景下表现更稳，适合对丢包和抖动敏感的用户。日常浏览与流媒体使用基础版普通线路即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq015a4jm.org",
+    "host": "xn--9kq015a4jm.org"
+  },
+  "file_hashes": {
+    "index.html": "53ef0e602225df16cefa8ea09b9ce6efbf244b107fa60bc766e2d47faef00df4",
+    "sitemap.xml": "d0d365e9b376519478f5ce6a3736905ed299137d0528557249a8c9b5cc19727f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f029a15128452d384d2d0cac9e80543f1e0c16cf98e504c10c15ab9ecbc3f0a0",
+    "robots.txt": "22ac74878505804e77d457c9470a26e4b4d79a5a351b9580ea1f09e7e1114827",
+    "2f02a85aa66a31313370a12a535db2f2.txt": "17558dfc3d2dbf6231ede929ad5bfc7225c4d83a55f94ac08ece4c1fd23dfc8e"
+  },
+  "revision": "8fa43df25d7e3f285be941905d1ba7959fc6b090565a5c8bf84a549311880db8"
+}
